@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/wannapii/Learning-Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/wannapii/Learning-Data-Structures-and-Algorithms/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/wannapii/Learning-Data-Structures-and-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/wannapii/Learning-Data-Structures-and-Algorithms/tree/master/0561-array-partition) |
+## Two Pointers
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/wannapii/Learning-Data-Structures-and-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
+## String
+|  |
+| ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/wannapii/Learning-Data-Structures-and-Algorithms/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
